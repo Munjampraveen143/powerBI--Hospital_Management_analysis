@@ -94,6 +94,7 @@ Hospital-Management-Analysis/
 ├── Hospital_Management_Analysis.pbix
 ├── dashboard.png
 └── README.md
+
 🚀 How to Use This Project
 Download the .pbix file from this repository
 
