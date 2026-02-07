@@ -1,1 +1,1 @@
-# powerBI--Hospital_Management_analysis
+# powerBI-Hospital_Management_analysis
